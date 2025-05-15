@@ -1,1 +1,1 @@
-Here is going to bge submited the changes on the proyect repository
+Proyect file use to submit the changes on the proyect repository all changes for company inventory
